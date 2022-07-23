@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Seahawk Sellers</string>
+    <string name="email">Email</string>
+    <string name="password_label">Password</string>
+    <string name="hello">Welcome %1$s!</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="register">Create New Account</string>
+    <string name="title_label">Title:</string>
+    <string name="description_label">Description:</string>
+    <string name="price_label">Price:</string>
+    <string name="seller_label">Seller:</string>
+    <string name="newPost">New Post</string>
+    <string name="post">Post</string>
+    <string name="saveChanges">Save Changes</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="myPost">My Posts</string>
+    <string name="contact">Contact Seller</string>
+    <string name="search">Search</string>
+    <string name="searchTitles">Search Titles...</string>
+    <string name="viewPost">View Post</string>
+    <string name="editPost">Edit Post</string>
+    <string name="homePage">Home Page</string>
+    <string name="clear">Clear</string>
+</resources>
